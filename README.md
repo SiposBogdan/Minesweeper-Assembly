@@ -1,4 +1,4 @@
 # Minesweeper-Assembly
-![Captură de ecran 2025-03-07 205507](https://github.com/user-attachments/assets/5f44cd03-a14b-491f-b0a2-50f166d65223)
+![image](https://github.com/user-attachments/assets/de080210-81b6-4041-9b3b-9ff151e6e139)
 A Minesweeper game made in Assembly.
 
